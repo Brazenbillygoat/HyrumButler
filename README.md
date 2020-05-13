@@ -4,3 +4,5 @@
 
 ## My Dogs Diary
 A lightweight fun application for inputing and storing diary entries. Also allows you to search for past entries by date.
+
+[**Visit the repository here**](https://github.com/Brazenbillygoat/myDogsDiary)
